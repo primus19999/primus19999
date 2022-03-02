@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @primus19999
-- 👀 I’m interested in javascript javascript and React.js
-- 🌱 I’m currently learning javascript and React.js
+- 👀 I’m interested in javascript, React, nodejs, python
+- 🌱 I’m currently learning javascript, React, node.js
 - 💞️ I’m looking to collaborate on ... (maybe later)
 - 📫 How to reach me primusghost1999@gmail.com 
 
